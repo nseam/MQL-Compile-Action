@@ -10,6 +10,9 @@ inputs:
   Path:
     description: 'Path to compile'
     required: true
+  MtVersion:
+    description: 'Platform version to use'
+    default: '5.0.0.2361'
 # outputs:
 #  foo: # id of output
 #    description: 'Foo'

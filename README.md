@@ -19,6 +19,10 @@ Path to folder or file to compile.
 
 Default: `.` (all files in the current folder are compiled).
 
+### `MtVersion`
+
+Platform version to use. Default: *5.0.0.2361*.
+
 <!--
 ## Other Inputs
 
